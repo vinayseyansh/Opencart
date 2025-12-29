@@ -1,0 +1,65 @@
+16:45:05.367 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+16:45:08.315 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+16:54:21.690 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
+
+16:54:37.326 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+16:54:40.940 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+10:09:17.896 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\master.xml
+
+10:09:35.996 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
+10:09:41.976 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
+10:09:41.994 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
+10:09:57.346 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
+10:09:57.353 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
+10:10:12.040 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
+10:10:12.047 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
+10:10:26.913 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
+10:10:26.918 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
+10:10:32.358 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
+10:11:26.129 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
+
+10:11:30.480 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+10:11:33.183 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+12:39:54.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
+
+12:41:31.360 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+12:41:32.015 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+12:41:33.006 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+12:41:33.022 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+12:41:36.071 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+12:41:46.181 [main] ERROR com.testcases.AccountRegistrationTest - trst failed
+12:41:52.243 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+12:41:56.361 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+12:45:32.947 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
+
+12:45:40.212 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+12:45:40.578 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+12:45:41.610 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+12:45:41.615 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+12:45:43.906 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+12:45:49.855 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+12:45:53.689 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+11:36:26.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
+
+11:41:52.138 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
+
+11:42:37.621 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
+
+11:44:02.321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\master.xml
+
+11:44:28.896 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
+11:44:35.319 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
+11:44:35.372 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
+11:44:50.768 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
+11:44:50.783 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
+11:45:05.524 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
+11:45:05.524 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********

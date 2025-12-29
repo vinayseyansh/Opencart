@@ -1,0 +1,55 @@
+14:20:34.403 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.36.0 (resolved driver for Firefox 144)
+14:20:34.434 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\sujus\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+14:20:47.033 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:20:47.371 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:20:48.798 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:20:48.799 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:20:50.718 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+14:25:42.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\CrossBrowserTesting.xml
+
+14:26:04.384 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:26:05.064 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:26:05.938 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:26:05.943 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:26:08.264 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+14:26:16.805 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:26:17.041 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:26:17.843 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:26:17.859 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:26:19.655 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+14:29:28.757 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\CrossBrowserTesting.xml
+
+14:29:38.933 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:29:39.414 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:29:40.223 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:29:40.228 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:29:42.362 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+14:29:52.569 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:29:52.898 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:29:53.835 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:29:53.837 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:29:56.111 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+14:30:05.711 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:30:06.013 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:30:07.525 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:30:07.526 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:30:13.745 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+14:33:43.540 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\CrossBrowserTesting.xml
+
+14:33:52.976 [TestNG-tests-2] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:33:53.626 [TestNG-tests-2] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:33:54.170 [TestNG-tests-1] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:33:55.680 [TestNG-tests-1] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:33:57.158 [TestNG-tests-2] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:33:57.166 [TestNG-tests-2] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:33:58.046 [TestNG-tests-1] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:33:58.047 [TestNG-tests-1] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:34:04.217 [TestNG-tests-3] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:34:04.436 [TestNG-tests-1] INFO  com.testcases.AccountRegistrationTest - validating expected message
+14:34:04.581 [TestNG-tests-3] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:34:05.983 [TestNG-tests-3] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:34:05.985 [TestNG-tests-3] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:34:06.929 [TestNG-tests-2] INFO  com.testcases.AccountRegistrationTest - validating expected message

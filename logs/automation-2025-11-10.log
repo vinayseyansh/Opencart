@@ -1,0 +1,57 @@
+15:16:24.778 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:16:24.786 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:16:24.786 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:16:24.790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:16:24.790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:16:24.790 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:16:24.791 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:16:24.792 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:16:24.793 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:16:24.795 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:16:24.795 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:16:24.795 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:16:24.795 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:16:24.808 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\AppData\Local\Temp\testng-eclipse--856367254\testng-customsuite.xml
+
+15:16:24.838 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+15:16:25.247 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2bef51f2: 226 ms
+15:16:25.288 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5b04476e: 41 ms
+15:16:25.308 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5d018107: 20 ms
+15:16:25.319 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b3c354a: 11 ms
+15:16:25.330 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@54227100: 10 ms
+15:16:25.331 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6b5894c8: 0 ms
+15:42:59.009 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\CrossBrowserTesting.xml
+
+15:43:06.507 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+15:43:06.761 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+15:43:07.674 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+15:43:07.680 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+15:43:09.626 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+15:43:20.632 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+15:43:21.125 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+15:43:21.994 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+15:43:21.996 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+15:43:24.438 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+15:43:32.903 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+15:43:33.175 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+15:43:33.938 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+15:43:33.938 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+15:43:35.540 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+15:47:35.963 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\CrossBrowserTesting.xml
+
+16:38:03.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
+
+16:38:18.669 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+16:38:19.202 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+16:38:20.215 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+16:38:20.220 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+16:38:22.477 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+16:38:31.718 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+16:38:36.611 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+16:45:00.204 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
+
