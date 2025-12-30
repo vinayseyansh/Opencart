@@ -1,53 +1,14 @@
-11:45:21.773 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-11:45:21.804 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-11:45:28.527 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-11:48:47.935 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\sujus\eclipse-workspace\Opencart\master.xml
-
-11:48:57.361 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-11:49:04.788 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-11:49:04.851 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-11:49:19.876 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-11:49:19.892 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-11:49:37.347 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-11:49:37.362 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-11:49:52.658 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-11:49:52.670 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-11:49:59.312 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-14:14:22.491 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\sujus\eclipse-workspace\Opencart\grouping.xml
-
-14:14:30.606 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-14:14:31.602 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-14:14:32.407 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-14:14:32.439 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
-14:14:34.806 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-14:14:38.851 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-14:14:41.321 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
-14:14:59.739 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\sujus\eclipse-workspace\Opencart\master.xml
-
-14:15:08.610 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-14:15:15.313 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-14:15:15.382 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-14:15:30.629 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-14:15:30.638 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-14:15:45.514 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-14:15:45.519 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-14:16:00.796 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-14:16:00.803 [main] INFO  com.testcases.LoginDataDrivenTest - ***********starting test case login DDT test*********
-14:16:06.069 [main] INFO  com.testcases.LoginDataDrivenTest - ***********finished test case login DDT test*********
-12:54:07.101 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-12:54:07.853 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-12:54:08.886 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-12:54:08.901 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
-12:54:12.113 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-12:54:20.035 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-12:54:23.146 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
-12:02:03.258 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-12:02:03.501 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-12:02:04.007 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-12:02:04.021 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
-12:02:05.599 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-12:02:08.118 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-12:02:09.583 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+14:34:27.175 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+14:34:27.330 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+14:34:27.874 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+14:34:27.879 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+14:34:29.530 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+14:34:32.366 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+14:34:34.019 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+15:12:11.276 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+15:12:11.483 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+15:12:12.110 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+15:12:12.113 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+15:12:14.473 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+15:12:17.069 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+15:12:19.163 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
